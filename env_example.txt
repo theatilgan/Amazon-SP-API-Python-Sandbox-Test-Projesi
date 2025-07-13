@@ -1,0 +1,10 @@
+# Amazon SP-API Sandbox Credentials
+# AWS anahtarları sandbox modunda gerekli değil
+
+# SP-API Credentials (SP-API kütüphanesinin beklediği isimler)
+SP_API_REFRESH_TOKEN=your_refresh_token_here
+LWA_APP_ID=your_client_id_here
+LWA_CLIENT_SECRET=your_client_secret_here
+
+# Sandbox Marketplace ID (US)
+MARKETPLACE_ID=ATVPDKIKX0DER 
